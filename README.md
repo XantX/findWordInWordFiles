@@ -18,13 +18,13 @@
       solo ponemos ./[nombre carpeta objetivo] para referirnos a la carpeta
 
   ```
-    Escriba la ruta donde estan almacenados los archivos Word: ./docs
+    Escriba la ruta donde están almacenados los archivos Word: ./docs
   ```
 
   * Ingrese la secuencia de caracteres que desea buscar
 
   ```
-    Escriba el codigo que desea buscar: 1234
+    Escriba el código que desea buscar: 1234
   ```
 
   * Por ultimo verifique en la carpeta de resultado el documento Word encontrado.
